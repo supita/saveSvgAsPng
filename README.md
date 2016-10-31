@@ -25,6 +25,9 @@ svgAsDataUri(document.getElementById("diagram"), {}, function(uri) {
 
 Compatible with browserify.
 
+
+
+
 Browser Support
 ---------------
 
